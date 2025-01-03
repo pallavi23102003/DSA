@@ -1,11 +1,10 @@
-*Digit Counter*
-This code is a simple Python script that counts the number of digits in a given number. It handles both positive and negative integers efficiently.
+*DSA Practice Codes* : 
+This repository contains a collection of Data Structures and Algorithms (DSA) practice codes written in Python. These codes are designed to help learners understand and implement various DSA concepts efficiently.
 
 Features:
-1. Handles negative numbers by converting them to their absolute value.
-2. Uses a clean and simple function to count digits.
-3. Supports user input to make the script interactive.
-
+1. A variety of DSA problems with solutions.
+2. Easy-to-read and modular code.
+3. Ideal for both beginners and advanced learners.
 
 
 
